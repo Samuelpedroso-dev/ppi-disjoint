@@ -59,4 +59,4 @@ MIT, see the LICENSE file. Use it, change it and build on it. Issues and pull re
 
 ## Author
 
-Samuel Pedroso, computer engineering student in Brazil.
+Samuel Pedroso, Brazil. Building AI systems, applications and games.
